@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rishav kumar
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Javascript 
 - 📫 How to reach me www.linkedin.com/in/rishav-kumar9
 
 <!---
